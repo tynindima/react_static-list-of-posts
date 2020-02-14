@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,aAAc,CACd,UACF,CAEA,OACE,iBACF,CAEA,cACE,UACF,CAEA,OACE,kBACF","file":"main.0a655cd5.chunk.css","sourcesContent":[".App {\n  margin: 0 auto;\n  width: 70vw;\n}\n\n.title {\n  text-align: center;\n}\n\n.comment-list {\n  width: 30vw;\n}\n\n.posts {\n  margin-bottom: 20px;\n}\n"]}
